@@ -17,7 +17,6 @@ Peds2: scenes with pedestrian movement parallel to the camera plane. Contains 16
         numpy
         
 ## Execution
- 
         python3 video_classifier.py
         
 ## Result
